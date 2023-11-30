@@ -1,0 +1,32 @@
+{
+    "abi":[
+        {
+            "inputs": [
+                {
+                    "internalType": "string",
+                    "name": "num",
+                    "type": "string"
+                }
+            ],
+            "name": "store",
+            "outputs": [],
+            "stateMutability": "nonpayable",
+            "type": "function"
+        },
+        {
+            "inputs": [],
+            "name": "retrieve",
+            "outputs": [
+                {
+                    "internalType": "string",
+                    "name": "",
+                    "type": "string"
+                }
+            ],
+            "stateMutability": "view",
+            "type": "function"
+        }
+    ],
+    "contract_address":"0x5Fc57687A49C37e59fB29Cfef12feB0b8B68DE64",
+    "deployer":"0x7b0c33284bA38A7401F97b9683242Cff1B3a2d84"
+}
